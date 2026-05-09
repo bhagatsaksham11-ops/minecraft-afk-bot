@@ -5,7 +5,7 @@ const { GoalFollow } = goals
 const CONFIG = {
   host: 'thunderforge.mcsh.io',
   port: 25565,
-  username: 'AFK_Bot',
+  username: 'afkbott',
   password: '123456',
   owner: 'YourIGN',
   version: '1.21.1' // 🔥 IMPORTANT
@@ -55,7 +55,7 @@ function createBot() {
   // 🔥 AUTO CHAT
   function autoChat() {
     const msgs = [
-      "AFK 😎",
+      "AFK-nice",
       "Grinding 🔥",
       "Hello SMP",
       "Nice server!",
