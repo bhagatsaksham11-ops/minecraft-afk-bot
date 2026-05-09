@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 const axios = require('axios')
 
 const CONFIG = {
-  host: 'YOUR_SERVER_IP',
+  host: 'thunderforge.mcsh.io',
   port: 25565,
   username: 'AFK_Bot',
   password: '123456',
